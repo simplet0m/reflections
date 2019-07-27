@@ -1,0 +1,2 @@
+what happens when you initialize a repository? why do you need to do it?
+A file is created to track the history of the repository.
